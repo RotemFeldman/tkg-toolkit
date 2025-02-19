@@ -173,7 +173,8 @@
 		],
 		"firmware": [
 			{ "name": "Default", "mcu": "atmega32u4", "file": "ergodone.hex" },
-			{ "name": "Prototype", "mcu": "atmega32u4", "file": "ergodone-prototype.hex" }
+			{ "name": "Prototype", "mcu": "atmega32u4", "file": "ergodone-prototype.hex" },
+			{ "name": "RotemFeldman", "mcu": "atmega32u4", "file": "ktec_ergodone_rotemfeldman.hex" }
 		]
 	},
 	{
